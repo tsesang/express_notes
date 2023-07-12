@@ -1,0 +1,4 @@
+exp app
+html file to creat forms
+sumit form add elemetn to arr
+param with id to get specific user data
